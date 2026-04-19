@@ -16,6 +16,18 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
+.details {
+    margin: 20px 0;
+    text-align: left;
+    display: inline-block;
+    max-width: 360px;
+}
+
+.details p {
+    margin: 8px 0;
+    line-height: 1.5;
+}
+
 .photo {
     width: 200px;
     height: auto;
